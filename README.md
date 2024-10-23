@@ -5,10 +5,6 @@
 
 Official Pytorch implementation for the "EvTexture: Event-driven Texture Enhancement for Video Super-Resolution" paper (ICML 2024).
 
-<p align="center">
-    🌐 <a href="https://dachunkai.github.io/evtexture.github.io/" target="_blank">Project</a> | 📃 <a href="https://arxiv.org/abs/2406.13457" target="_blank">Paper</a> | 🖼️ <a href="https://docs.google.com/presentation/d/1nbDb39TFb374DzBwdz5v20kIREUA0nBH/edit?usp=sharing" target="_blank">Poster</a> <br>
-</p>
-
 
 
 ## :rocket: News
